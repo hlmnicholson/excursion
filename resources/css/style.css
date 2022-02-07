@@ -1,0 +1,45 @@
+* {
+  background-color: #000000;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  /* font-weight: normal; */
+}
+
+h1, h2 {
+  color: #ffffff;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  color: #7fffd4;
+  font-size: 16px;
+  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: #7fffd4;
+}
+
+p {
+  color: #808080;
+  font-size: 21px;
+}
+
+video {
+  height: auto;
+}
+
+footer {
+  text-align: right;
+}
